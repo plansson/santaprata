@@ -20,6 +20,7 @@ class Finalizar extends PHPFrodo
     public $valor_total_formatado;
     public $valor_frete_formatado;
     public $payConfig;
+    public $modo_utilizacao;
 
     public function __construct()
     {
@@ -31,6 +32,8 @@ class Finalizar extends PHPFrodo
             $this->cliente_id = (string)$sid->getNode('cliente_id');
             $this->cliente_nome = (string)$sid->getNode('cliente_nome');
             $this->cliente_fullnome = (string)$sid->getNode('cliente_fullnome');
+            $this->cliente_cpf = (string)$sid->getNode('cliente_cpf');
+            $this->cliente_cnpj = (string)$sid->getNode('cliente_cnpj');
             $this->assign('cliente_nome', $this->cliente_nome);
             $this->assign('cliente_email', $this->cliente_email);
             $this->assign('cliente_msg', 'acesse aqui sua conta.');
@@ -366,7 +369,19 @@ class Finalizar extends PHPFrodo
         if (isset($_POST['metodo_pagamento']) && !empty($_POST['metodo_pagamento'])) {
             $_SESSION['metodo_pagamento'] = $_POST['metodo_pagamento'];
         }
-        
+
+        if (isset($_POST['modo_utilizacao']) && !empty($_POST['modo_utilizacao'])) {
+            $this->modo_utilizacao = $_POST['modo_utilizacao'];
+        }
+
+        if (isset($_POST['csh-nome']) && !empty($_POST['csh-nome'])) {
+            $this->csh_nome = $_POST['csh-nome'];
+        }
+
+        if (isset($_POST['csh-email']) && !empty($_POST['csh-email'])) {
+            $this->csh_email = $_POST['csh-email'];
+        }
+
         $id_cupomm =  intval($_SESSION['cupom']['id']);
         $this->select()->from('cupom')->where("cupom_id = $id_cupomm")->execute();
         if(isset($this->data[0])){
@@ -460,6 +475,79 @@ class Finalizar extends PHPFrodo
             $this->insert('pedido')->fields($f)->values($v)->execute();
             $this->pedido_id = $this->objBanco->lastId();
             $_SESSION['FLUX_PEDIDO_ID'] = $this->pedido_id;
+
+            if (isset($this->modo_utilizacao) && !empty($this->modo_utilizacao)) {
+
+                $cshPedidoId = null;
+                $cshModoUtilizacao = null;
+                $cshIdPessoa = null;
+                $cshPessoa = null;
+                $cshDocPessoa = null;
+                $cshEmailPessoa = null;
+                $cshBancoPessoa = null;
+                $cshAgenciaPessoa = null;
+                $cshContaPessoa = null;
+
+                $cshPedidoId = $this->pedido_id;
+                $cshModoUtilizacao = $this->modo_utilizacao;
+                $cshIdPessoa = $this->cliente_id;
+
+                switch ($this->modo_utilizacao){
+                    case 1:
+                        $this->select()->from('cliente')->where('cliente_id = ' . $this->cliente_id)->execute();
+                        if($this->result()){
+
+                            $this->map($this->data[0]);
+
+                            $cshIdPessoa = $this->cliente_id;
+                            $cshPessoa = $this->cliente_fullnome;
+                            $cshDocPessoa = is_null($this->cliente_cpf)?$this->cliente_cnpj:$this->cliente_cpf;
+                            $cshEmailPessoa = $this->cliente_email;
+
+                        }
+                        break;
+                    case 2:
+                        null;
+                        break;
+                    case 3:
+                        $cshPessoa = $this->csh_nome;
+                        break;
+                    case 4:
+                        $cshPessoa = $this->csh_nome;
+                        $cshEmailPessoa = $this->csh_email;
+                        break;
+                    default:
+                        null;
+                }
+
+                $csh_fields = [
+                    'csh_pedido',
+                    'csh_modo_utilizacao',
+                    'csh_id_pessoa',
+                    'csh_pessoa',
+                    'csh_doc_pessoa',
+                    'csh_email_pessoa',
+                    'csh_banco_pessoa',
+                    'csh_agencia_pessoa',
+                    'csh_conta_pessoa'
+                ];
+
+                $csh_values = [
+                    $cshPedidoId,
+                    $cshModoUtilizacao,
+                    $cshIdPessoa,
+                    $cshPessoa,
+                    $cshDocPessoa,
+                    $cshEmailPessoa,
+                    $cshBancoPessoa,
+                    $cshAgenciaPessoa,
+                    $cshContaPessoa
+                ];
+
+                $this->insert('cupom_sp_home')->fields($csh_fields)->values($csh_values)->execute();
+
+            }
+
         } else {
             $this->pedido_id = $_SESSION['FLUX_PEDIDO_ID'];
             $this->update('pedido')->set($f, $v)->where("pedido_id = $this->pedido_id")->execute();
