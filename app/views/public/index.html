@@ -119,6 +119,45 @@
 <div class="separador" id="elm-depoimento">
     <h1 class="text-center text-uppercase"><span>Depoimentos de clientes</span></h1>
 </div>
+<div class="modal fade in" style="z-index: 10000; display: block;" role="dialog" id="modal-frete">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title center">CLIENTE PARCEIRO SP HOME</h4>
+            </div>
+            <div class="modal-body justify font-12" style="background-image: url('images/popup/bg_modal_info.png'); background-size:cover; height:auto; width: 600px">
+                Conforme declarado pela Organização Mundial de Saúde (OMS), estamos vivendo uma pandemia global devido ao Covid-19, seus efeitos não são sentidos apenas por um único setor.
+                <br>
+                O coronavírus impacta todos os setores e provoca um efeito cascata em todos os tipos de negócios, atingindo inclusive, muitos de nossos clientes e parceiros.
+                <br>
+                A responsabilidade social sempre se fez presente em nossa empresa, e não poderia ser diferente agora.Pensando nisso, lançamos a ação CLIENTE PARCEIRO SP HOME , que visa beneficiar e apoiar nossos clientes, amigos, parceiros e instituições de caridade.
+                <br>
+                <br>
+                <center><b>COMO FUNCIONA?</b></center>
+                <br>
+                Você terá direito a um voucher com 5% do valor de cada venda que indicar e poderá escolher como utilizá-lo.
+                <br>
+                Ao acessar o nosso site e escolher os produtos desejados, antes de finalizar o pagamento, o comprador terá as seguintes opções:
+                <br>
+                1 - Fornecer os dados bancários de quem lhe indicou o site, para que possamos realizar transferência do valor do voucher equivalente ao percentual de 5% da sua compra.
+                <br>
+                2 - Optar por direcionar  um voucher para o seu e-mail através de cupom de desconto para compras futuras.
+                <br>
+                3- Indicar uma instituição de caridade para receber o valor equivalente aos 5%  do valor da sua compra.
+                <br>
+                <br>
+                Se cuidarmos uns dos outros, o processo que estamos vivendo agora será menos doloroso.
+                <p><b><i>* Descontos não cumulativos com cumpom ou vouchers.</i></b></p>
+                <center><b>SOLIDARIEDADE É A PALAVRA DA VEZ!</b><br>Juntos somos mais fortes!<br>Curta e compartilhe.</center>
+
+            </div>
+            <!--<div class="modal-footer">
+                <button class="btn btn-success" data-dismiss="modal" aria-label="Close">Fechar</button>
+            </div>-->
+        </div>
+    </div>
+</div>
 <?php include 'depoimentos.html'; ?>
 <?php  include 'footer.html'; ?>
 <script>is_mobile = '[is_mobile]';</script>
@@ -126,6 +165,15 @@
 <script src="js/public/slideshow.js" type="text/javascript"></script>
 <script type="text/javascript">
     [action_on_load] //#show-hide btn-more
+</script>
+<script>
+    $(document).ready(function(){
+        $('#modal-frete').show();
+
+        $('.close').on('click', function(){
+            $('#modal-frete').hide();
+        });
+    });
 </script>
 </body>
 </html>
