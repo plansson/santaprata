@@ -30,6 +30,11 @@ class Sendmail extends PHPFrodo {
             $mail->FromName = ($m->smtp_fromname);
             $mail->Subject = $n['subject'];
             $mail->Body = $n['body'];
+
+            if (isset($n['logo'])) {
+                $mail->AddEmbeddedImage($n['logo'],'logo');
+            }
+
             $mail->ClearAllRecipients();
             if ($m->smtp_bcc != "") {
                 $mail->AddBCC($m->smtp_bcc);
