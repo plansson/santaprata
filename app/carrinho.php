@@ -752,7 +752,16 @@ class Carrinho extends PHPFrodo
             $this->cupom_tipo = $_SESSION['cupom']['tipo'];
             $this->cupom_alfa = $_SESSION['cupom']['alfa'];
 
-            $this->valor_desconto = ($this->cupom_desconto / 100) * $this->total_compra;
+            //$this->valor_desconto = ($this->cupom_desconto / 100) * $this->total_compra;
+            $this->valor_desconto = 0;
+            foreach ($this->cart as $k => $v) {
+                if((int)$this->cart[$k]['item_oferta'] != 1){
+                    $totalItem = (float)$this->cart[$k]['item_preco'] * (int)$this->cart[$k]['item_qtde'];
+                    $this->valor_desconto += ($this->cupom_desconto / 100) * $totalItem;
+                }
+            }
+
+
             //tipo 1 = total  / 2 = frete
             if ($this->cupom_tipo == 1) {
                 if ($this->valor_frete >= 1) {
@@ -761,14 +770,14 @@ class Carrinho extends PHPFrodo
                     $this->total_com_desconto = $this->valor_total;
                     $this->cupom_desconto_info = "total dos produtos (" . $this->_money($this->total_sem_desconto) . ") - 
                             cupom (" . $this->_money($this->valor_desconto) . ") + frete (" . $this->_money($this->valor_frete) . ")";
-                    $this->cupom_msg = "<p class='text-success'>Cupom Desconto -" . $this->_money($this->valor_desconto) . "</p>";
+                    $this->cupom_msg = "<p class='text-success'>Cupom Desconto: " . $this->_money($this->valor_desconto) . "</p>";
                 } else {
                     $this->valor_total = $this->total_sem_desconto;
                     $this->cupom_desconto_ext = "( -$this->cupom_desconto_ext% )";
                     $this->total_com_desconto = $this->valor_total - $this->valor_desconto;
                     $this->cupom_desconto_info = "total dos produtos (" . $this->_money($this->total_sem_desconto) . ") - 
                             cupom (" . $this->_money($this->valor_desconto) . ")";
-                    $this->cupom_msg = "<p class='text-success'>Cupom Desconto -" . $this->_money($this->valor_desconto) . "</p>";
+                    $this->cupom_msg = "<p class='text-success'>Cupom Desconto: " . $this->_money($this->valor_desconto) . "</p>";
                 }
             } elseif ($this->cupom_tipo == 2) {
                 $this->cupom_desconto = 0;
