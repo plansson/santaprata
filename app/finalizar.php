@@ -1,5 +1,11 @@
 <?php
 
+require_once 'Mensagem.php';
+require_once 'T1.php';
+//require_once 'T2.php';
+//require_once 'T3.php';
+require_once 'T4.php';
+
 class Finalizar extends PHPFrodo
 {
 
@@ -496,14 +502,12 @@ class Finalizar extends PHPFrodo
                     case 1:
                         $this->select()->from('cliente')->where('cliente_id = ' . $this->cliente_id)->execute();
                         if($this->result()){
-
                             $this->map($this->data[0]);
 
                             $cshIdPessoa = $this->cliente_id;
                             $cshPessoa = $this->cliente_fullnome;
                             $cshDocPessoa = is_null($this->cliente_cpf)?$this->cliente_cnpj:$this->cliente_cpf;
                             $cshEmailPessoa = $this->cliente_email;
-
                         }
                         break;
                     case 2:
@@ -536,9 +540,9 @@ class Finalizar extends PHPFrodo
                     $cshPedidoId,
                     $cshModoUtilizacao,
                     $cshIdPessoa,
-                    $cshPessoa,
+                    ucwords(strtolower($cshPessoa)),
                     $cshDocPessoa,
-                    $cshEmailPessoa,
+                    strtolower($cshEmailPessoa),
                     $cshBancoPessoa,
                     $cshAgenciaPessoa,
                     $cshContaPessoa
@@ -863,9 +867,77 @@ XML;
     {
         require_once 'pay-pagseguro-b.php';
     }
-
-
     /*END PAGSEGURO*/
+
+    public function generateCupomSPHBR(){
+
+        $upperLetters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
+        $numbers      = [0,1,2,3,4,5,6,7,8,9];
+
+        $chars = array_merge($upperLetters, $numbers);
+
+        $cupom = '';
+        for ($i = 0;$i < 6;$i++){
+            $cupom .= $chars[mt_rand(0,count($chars)-1)];
+        }
+
+        $cupom = 'SPHBR-'.$cupom;
+
+        $f = [
+            'cupom_alfa',
+            'cupom_desconto',
+            'cupom_real',
+            'cupom_validade',
+            'cupom_limite'
+        ];
+
+        $v = [
+            $cupom,
+            5,
+            0,
+            '2020-12-31 23:59:59',
+            1
+        ];
+
+        $this->insert( 'cupom' )->fields($f)->values($v)->execute();
+
+        return $cupom;
+
+    }
+
+    public function notificarCupom()
+    {
+        $this->select()->from('cupom_sp_home')->where('csh_pedido = ' . $this->pedido_id)->execute();
+        if($this->result()) {
+            $this->map($this->data[0]);
+
+            $_SESSION['FLUX_CUPOM_ID'] = $this->generateCupomSPHBR();
+        }
+
+        $body = null;
+        switch ($this->csh_modo_utilizacao){
+            case 1:
+                $body = new Mensagem(new T1());
+                break;
+            case 4:
+                $body = new Mensagem(new T4());
+                break;
+            default:
+                null;
+        }
+
+        $n = array(
+            'email' => $this->csh_email_pessoa,
+            'subject' => utf8_decode("AÇÃO CLIENTE PARCEIRO SP HOME"),
+            'body' => utf8_decode($body->getMsg()),
+            'logo' => 'app/images/email/logo_branca.png'
+        );
+
+        $m = new sendmail;
+        $m->sender($n);
+
+    }
+
     public function notificarAdmin()
     {
         $body = '<html><body>';
@@ -1035,7 +1107,14 @@ XML;
 
         if (isset($_SESSION['cupom']['alfa'])) {
             if ($_SESSION['cupom']['tp_desconto'] == 1) {
-                $cart->valor_desconto_cupom = (($cart->total_compra / 100) * $_SESSION['cupom']['desconto']);
+                //$cart->valor_desconto_cupom = (($cart->total_compra / 100) * $_SESSION['cupom']['desconto']);
+                $cart->valor_desconto_cupom = 0;
+                foreach ($this->cart as $k => $v) {
+                    if((int)$this->cart[$k]['item_oferta'] != 1){
+                        $totalItem = (float)$this->cart[$k]['item_preco'] * (int)$this->cart[$k]['item_qtde'];
+                        $cart->valor_desconto_cupom += ($_SESSION['cupom']['desconto'] / 100) * $totalItem;
+                    }
+                }
             } else {
                 $cart->valor_desconto_cupom = $this->_moneyUS($_SESSION['cupom']['real']);
             }
