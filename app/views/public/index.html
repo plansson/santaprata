@@ -127,7 +127,7 @@
 <div class="separador" id="elm-depoimento">
     <h1 class="text-center text-uppercase"><span>Depoimentos de clientes</span></h1>
 </div>
-<div class="modal fade in" style="z-index: 10000; display: block;" role="dialog" id="modal-frete">
+<!--<div class="modal fade in" style="z-index: 10000; display: block;" role="dialog" id="modal-frete">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -160,12 +160,12 @@
                 <center><b>SOLIDARIEDADE É A PALAVRA DA VEZ!</b><br>Juntos somos mais fortes!<br>Curta e compartilhe.</center>
 
             </div>
-            <!--<div class="modal-footer">
+            &lt;!&ndash;<div class="modal-footer">
                 <button class="btn btn-success" data-dismiss="modal" aria-label="Close">Fechar</button>
-            </div>-->
+            </div>&ndash;&gt;
         </div>
     </div>
-</div>
+</div>-->
 <?php include 'depoimentos.html'; ?>
 <?php  include 'footer.html'; ?>
 <script>is_mobile = '[is_mobile]';</script>
@@ -176,11 +176,12 @@
 </script>
 <script>
     $(document).ready(function(){
-        $('#modal-frete').show();
+        //$('#modal-frete').show();
 
-        $('.close').on('click', function(){
+        /*$('.close').on('click', function(){
             $('#modal-frete').hide();
-        });
+        });*/
+        console.log('Carregado.');
     });
 </script>
 </body>
