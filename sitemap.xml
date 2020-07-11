@@ -1,3 +1,1451 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9                                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-                         <url><loc>http://santapratahome.com.br/</loc><lastmod>2020-01-17T14:55:19-03:00</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url><loc>http://santapratahome.com.br/produto/decor/almofadas/telefone-digital-sem-fio-retro-fashion-sixty-sagemcom-laranja-com-secretaria-eletronica-identificador-de-chamadas-e-viva-voz/27/</loc><lastmod>2020-01-17T14:55:19-03:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>http://santapratahome.com.br/produto/decor/bandejas/celular-desbloqueado-nokia-asha-305-grafite-com-camera-2mp-dual-chip-touch-screen-radio-fm-mp3-bluetooth-fone-de-ouvido-e-cartao-2gb/28/</loc><lastmod>2020-01-17T14:55:19-03:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url></urlset>
+            <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+                <channel>
+                    <title>Santa Prata</title>
+                    <link>santapratahome.com.br</link>
+                    <description>Decorações</description>
+                
+                <item>
+                    <g:id>75</g:id>
+                    <g:title>Capacho flor</g:title>
+                    <g:description>Capacho flor</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/capacho/capacho-flor/75</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f6f7a167f744e4fcd781e0dec01d0f47.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>6</g:inventory>
+                    <g:price>488</g:price>
+                </item>
+                
+                <item>
+                    <g:id>76</g:id>
+                    <g:title>Capacho flor vazada</g:title>
+                    <g:description>Capacho flor vazada</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/capacho/capacho-flor-vazada/76</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/4d62cfaa979edbc099004cff5a5386d2.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>6</g:inventory>
+                    <g:price>488</g:price>
+                </item>
+                
+                <item>
+                    <g:id>78</g:id>
+                    <g:title>Capacho lyon</g:title>
+                    <g:description>Capacho lyon</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/capacho/capacho-lyon/78</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f978ad4e7a944d7bdfd1537dba67dfc7.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>6</g:inventory>
+                    <g:price>488</g:price>
+                </item>
+                
+                <item>
+                    <g:id>79</g:id>
+                    <g:title>Suporte para mangueira primavera</g:title>
+                    <g:description>Suporte para mangueira primavera</g:description>
+                    <g:link>https://santapratahome.com.br/produto/jardim/suporte-de-mangueira/suporte-para-mangueira-primavera/79</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/14941fc3994255187edb2fe4c77da9ed.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>7</g:inventory>
+                    <g:price>150</g:price>
+                </item>
+                
+                <item>
+                    <g:id>80</g:id>
+                    <g:title>Suporte para mangueira flor vazada</g:title>
+                    <g:description>Suporte para mangueira flor vazada</g:description>
+                    <g:link>https://santapratahome.com.br/produto/jardim/suporte-de-mangueira/suporte-para-mangueira-flor-vazada/80</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f7b4dc54b733e2a3f3e01f93103026db.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>150</g:price>
+                </item>
+                
+                <item>
+                    <g:id>81</g:id>
+                    <g:title>Torneira para jardim medeval</g:title>
+                    <g:description>Torneira para jardim medeval</g:description>
+                    <g:link>https://santapratahome.com.br/produto/jardim/torneira-de-jardim/torneira-para-jardim-medeval/81</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/265f66c4e0f1066c6d1b79b7a5c3c74c.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>159.9</g:price>
+                </item>
+                
+                <item>
+                    <g:id>82</g:id>
+                    <g:title>Torneira para jardim primavera</g:title>
+                    <g:description>Torneira para jardim primavera</g:description>
+                    <g:link>https://santapratahome.com.br/produto/jardim/torneira-de-jardim/torneira-para-jardim-primavera/82</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b481ebf39100704a692ff9665e41a09f.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>159.9</g:price>
+                </item>
+                
+                <item>
+                    <g:id>83</g:id>
+                    <g:title>Livro tom</g:title>
+                    <g:description>Livro tom</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-tom/83</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8a3ce3fefc31b3cb835442e2f9b971f4.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>286</g:price>
+                </item>
+                
+                <item>
+                    <g:id>84</g:id>
+                    <g:title>Livro decorativo dior couture</g:title>
+                    <g:description>Livro decorativo dior couture</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-decorativo-dior-couture/84</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/d40e2497130e67672c32455545fa578b.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>196</g:price>
+                </item>
+                
+                <item>
+                    <g:id>85</g:id>
+                    <g:title>Livro decorativo vog</g:title>
+                    <g:description>Livro decorativo vog</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-decorativo-vog/85</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/25edabdaa413fc1493669f533df17464.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>196</g:price>
+                </item>
+                
+                <item>
+                    <g:id>86</g:id>
+                    <g:title>Centro de mesa classico mp</g:title>
+                    <g:description>Centro de mesa classico mp</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/centro-de-mesa-classico-mp/86</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/dc679ddb70ea1654dcfb14555016d3e0.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1816</g:price>
+                </item>
+                
+                <item>
+                    <g:id>87</g:id>
+                    <g:title>Livro decorativo box d-or</g:title>
+                    <g:description>Livro decorativo box d-or</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-decorativo-box-d-or/87</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/86408c7640f505c86cd7d3dc9f8264de.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>196</g:price>
+                </item>
+                
+                <item>
+                    <g:id>88</g:id>
+                    <g:title>Livro decorativo box vuitton</g:title>
+                    <g:description>Livro decorativo box vuitton</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-decorativo-box-vuitton/88</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/e61651a6029a54b50204dc2b94c67e1f.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>246</g:price>
+                </item>
+                
+                <item>
+                    <g:id>89</g:id>
+                    <g:title>Livro box decorativo coco</g:title>
+                    <g:description>Livro box decorativo coco</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/livros/livro-box-decorativo-coco/89</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b0d03c4bed60d316add3328aa26b12e6.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>246</g:price>
+                </item>
+                
+                <item>
+                    <g:id>90</g:id>
+                    <g:title>Pinha decorativa mp</g:title>
+                    <g:description>Pinha decorativa mp</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/pinha-decorativa-mp/90</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ddcb24f786793557743cf475650c86d4.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>710</g:price>
+                </item>
+                
+                <item>
+                    <g:id>91</g:id>
+                    <g:title>Pinha decorativa torcida</g:title>
+                    <g:description>Pinha decorativa torcida</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/pinha-decorativa-torcida/91</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ef45bb63794de1ffc62108c887d4df55.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>710</g:price>
+                </item>
+                
+                <item>
+                    <g:id>92</g:id>
+                    <g:title>Pinha decorativa mp g</g:title>
+                    <g:description>Pinha decorativa mp g</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/pinha-decorativa-mp-g/92</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/3ccc9d0767ccca30cbeed8dea2f19d68.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>710</g:price>
+                </item>
+                
+                <item>
+                    <g:id>93</g:id>
+                    <g:title>Pinha decorativa palha m</g:title>
+                    <g:description>Pinha decorativa palha m</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/pinha-decorativa-palha-m/93</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/220abd7685f22b62c34a4659bc15fa2d.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>710</g:price>
+                </item>
+                
+                <item>
+                    <g:id>94</g:id>
+                    <g:title>Cachepot pÁssaros</g:title>
+                    <g:description>Cachepot pÁssaros</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/cachepot-passaros/94</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/95a54ac5ab190ede2809d699477ce913.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1060</g:price>
+                </item>
+                
+                <item>
+                    <g:id>95</g:id>
+                    <g:title>Vaso mp rosa i</g:title>
+                    <g:description>Vaso mp rosa i</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/vaso-mp-rosa-i/95</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/e0f4533d316588b27a3c3455faf1a67a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>538</g:price>
+                </item>
+                
+                <item>
+                    <g:id>96</g:id>
+                    <g:title>Vaso marizza prado rosa ii</g:title>
+                    <g:description>Vaso marizza prado rosa ii</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/vaso-marizza-prado-rosa-ii/96</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/9979e4632d81f4e189ae0b81336dedfe.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>538</g:price>
+                </item>
+                
+                <item>
+                    <g:id>97</g:id>
+                    <g:title>Faqueiro de prata croise 106 peÇas - pronta entrega</g:title>
+                    <g:description>Faqueiro de prata croise 106 peÇas - pronta entrega</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/faqueiro-de-prata-croise-106-pecas-pronta-entrega/97</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/048f2a7863cbb230b54a84b578589276.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>2400</g:price>
+                </item>
+                
+                <item>
+                    <g:id>98</g:id>
+                    <g:title>Centro de murano chris verde opalina c/ ouro 18k</g:title>
+                    <g:description>Centro de murano chris verde opalina c/ ouro 18k</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/centro-de-murano-chris-verde-opalina-c-ouro-18k/98</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/e764775759ff6b7436b35109717bf327.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>27</g:inventory>
+                    <g:price>437</g:price>
+                </item>
+                
+                <item>
+                    <g:id>100</g:id>
+                    <g:title>Mesa cone 120 x 76 cm</g:title>
+                    <g:description>Mesa cone 120 x 76 cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/moveis/mesa-de-jantar/mesa-cone-120-x-76-cm/100</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/74e31ea7106a89e74e86d16c5166212e.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>3050</g:price>
+                </item>
+                
+                <item>
+                    <g:id>101</g:id>
+                    <g:title>Mesa rÚstica retangular de madeira 2.40x1.20</g:title>
+                    <g:description>Mesa rÚstica retangular de madeira 2.40x1.20</g:description>
+                    <g:link>https://santapratahome.com.br/produto/moveis/mesa-de-jantar/mesa-rustica-retangular-de-madeira-2-40x1-20/101</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/c9ccc63ce6ae8e8a2f36916030eaa6c9.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>6085</g:price>
+                </item>
+                
+                <item>
+                    <g:id>102</g:id>
+                    <g:title>Vaso leque cristal murano 17 x 20 cm</g:title>
+                    <g:description>Vaso leque cristal murano 17 x 20 cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/vaso-leque-cristal-murano-17-x-20-cm/102</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/bbde6d3c0f49abfdde26f94367af9ea5.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>605</g:price>
+                </item>
+                
+                <item>
+                    <g:id>103</g:id>
+                    <g:title>Trouxinha de murano cristal com ouro18 x 13 cm</g:title>
+                    <g:description>Trouxinha de murano cristal com ouro18 x 13 cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/trouxinha-de-murano-cristal-com-ouro18-x-13-cm/103</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/180c1b8b7faa7658f3a2242ead6a16ba.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>4</g:inventory>
+                    <g:price>437</g:price>
+                </item>
+                
+                <item>
+                    <g:id>104</g:id>
+                    <g:title>Vaso rigado cristal murano bronze</g:title>
+                    <g:description>Vaso rigado cristal murano bronze</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/vaso-rigado-cristal-murano-bronze/104</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/32a815669c2ca0b5751019879d38ce6a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>3</g:inventory>
+                    <g:price>375</g:price>
+                </item>
+                
+                <item>
+                    <g:id>105</g:id>
+                    <g:title>Vaso marselha cristal murano na cor grafite com ouro</g:title>
+                    <g:description>Vaso marselha cristal murano na cor grafite com ouro</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/vaso-marselha-cristal-murano-na-cor-grafite-com-ouro/105</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/208ae4dcf5d244607a63e7981b911173.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>27</g:inventory>
+                    <g:price>1144</g:price>
+                </item>
+                
+                <item>
+                    <g:id>106</g:id>
+                    <g:title>Vaso avignon de cristal murano cor cristal</g:title>
+                    <g:description>Vaso avignon de cristal murano cor cristal</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/vaso-avignon-de-cristal-murano-cor-cristal/106</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/7e99322933c56fb885f42717edd30503.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>27</g:inventory>
+                    <g:price>2250</g:price>
+                </item>
+                
+                <item>
+                    <g:id>107</g:id>
+                    <g:title>Jarra de prata 1,4lt - pronta entrega.</g:title>
+                    <g:description>Jarra de prata 1,4lt - pronta entrega.</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/jarra-de-prata-1-4lt-pronta-entrega/107</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/342f57facda57abe86d958609262daba.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>775</g:price>
+                </item>
+                
+                <item>
+                    <g:id>108</g:id>
+                    <g:title>Cachipot saquinho de prata</g:title>
+                    <g:description>Cachipot saquinho de prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/cachipot-saquinho-de-prata/108</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b0010f546ab7a8d6ab912a25dbde68c7.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>0</g:inventory>
+                    <g:price>315</g:price>
+                </item>
+                
+                <item>
+                    <g:id>109</g:id>
+                    <g:title>Porta guardanapo laÇo de prata - pronta entrega.</g:title>
+                    <g:description>Porta guardanapo laÇo de prata - pronta entrega.</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/porta-guardanapo-laco-de-prata-pronta-entrega/109</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ccc655d9f446f3617a7f82b68588be36.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>10</g:inventory>
+                    <g:price>47</g:price>
+                </item>
+                
+                <item>
+                    <g:id>110</g:id>
+                    <g:title>Conjunto para cafÉ 5 peÇas de prata - pronta entrega</g:title>
+                    <g:description>Conjunto para cafÉ 5 peÇas de prata - pronta entrega</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/conjunto-para-cafe-5-pecas-de-prata-pronta-entrega/110</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/55d1e04037ff845ef828ebb425949a5f.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1750</g:price>
+                </item>
+                
+                <item>
+                    <g:id>111</g:id>
+                    <g:title>Porta difusor femme carol bassi st. james - sob encomenda</g:title>
+                    <g:description>Porta difusor femme carol bassi st. james - sob encomenda</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/porta-difusor-femme-carol-bassi-st-james-sob-encomenda/111</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/45ccf595a7fabb18b736caa4969506a3.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>3</g:inventory>
+                    <g:price>850</g:price>
+                </item>
+                
+                <item>
+                    <g:id>112</g:id>
+                    <g:title>Banqueta bm - base aÇo carbono dourada</g:title>
+                    <g:description>Banqueta bm - base aÇo carbono dourada</g:description>
+                    <g:link>https://santapratahome.com.br/produto/moveis/banquetas/banqueta-bm-base-aco-carbono-dourada/112</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ebce92917e4636545a41ba93bc78de80.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>0</g:inventory>
+                    <g:price>1824</g:price>
+                </item>
+                
+                <item>
+                    <g:id>113</g:id>
+                    <g:title>Abajur de cristal murano c/ ouro 24k na cor gelo</g:title>
+                    <g:description>Abajur de cristal murano c/ ouro 24k na cor gelo</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/abajures/abajur-de-cristal-murano-c-ouro-24k-na-cor-gelo/113</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/0a21ce2ed021f67904e5faf5e790fbf2.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1100</g:price>
+                </item>
+                
+                <item>
+                    <g:id>114</g:id>
+                    <g:title>Vaso femme pequeno por carol bassi para st. james - niquel</g:title>
+                    <g:description>Vaso femme pequeno por carol bassi para st. james - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/vaso-femme-pequeno-por-carol-bassi-para-st-james-niquel/114</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/16561090fa4e6984e48d4fb07269ac60.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>579</g:price>
+                </item>
+                
+                <item>
+                    <g:id>115</g:id>
+                    <g:title>Vaso femme medio por carol bassi para st. james - niquel</g:title>
+                    <g:description>Vaso femme medio por carol bassi para st. james - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/vaso-femme-medio-por-carol-bassi-para-st-james-niquel/115</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/91f90882fbfc15451ac54e59f66cbf24.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>620</g:price>
+                </item>
+                
+                <item>
+                    <g:id>116</g:id>
+                    <g:title>Faqueiro venetian st. james</g:title>
+                    <g:description>Faqueiro venetian st. james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/tableware/faqueiro/faqueiro-venetian-st-james/116</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/34afd379794b33057e10e659eedd068a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>720</g:price>
+                </item>
+                
+                <item>
+                    <g:id>117</g:id>
+                    <g:title>Centro de mesa spin grande</g:title>
+                    <g:description>Centro de mesa spin grande</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/centro-de-mesa-spin-grande/117</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/9140d46f904c8b3b93783207d6c0ee11.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1499</g:price>
+                </item>
+                
+                <item>
+                    <g:id>118</g:id>
+                    <g:title>Cachepot g coleÇÃo femme por carol bassi para st. james - niquel</g:title>
+                    <g:description>Cachepot g coleÇÃo femme por carol bassi para st. james - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/vasos/cachepot-g-colecao-femme-por-carol-bassi-para-st-james-niquel/118</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/15665ef83beca63a1f083a584a89028a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>905</g:price>
+                </item>
+                
+                <item>
+                    <g:id>119</g:id>
+                    <g:title>Bandeja oval coleÇÃo femme com espelho por carol bassi para st. james - prata/niquel</g:title>
+                    <g:description>Bandeja oval coleÇÃo femme com espelho por carol bassi para st. james - prata/niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-oval-colecao-femme-com-espelho-por-carol-bassi-para-st-james-prata-niquel/119</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/049807569baa33b5940662dc3ceb7722.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>728</g:price>
+                </item>
+                
+                <item>
+                    <g:id>120</g:id>
+                    <g:title>Centro de mesa c/ cordao croise - niquel</g:title>
+                    <g:description>Centro de mesa c/ cordao croise - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-c-cordao-croise-niquel/120</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/68a12f25f6f09761707e1b3c9f39ead1.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1852</g:price>
+                </item>
+                
+                <item>
+                    <g:id>121</g:id>
+                    <g:title>Tapete cinza importado - 100% viscose - 3,0 x 4,0 mt</g:title>
+                    <g:description>Tapete cinza importado - 100% viscose - 3,0 x 4,0 mt</g:description>
+                    <g:link>https://santapratahome.com.br/produto/tapete/importados/tapete-cinza-importado-100-viscose-3-0-x-4-0-mt/121</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/cf88fe5fdb8153e836687d3e0eb1dde8.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>5900</g:price>
+                </item>
+                
+                <item>
+                    <g:id>122</g:id>
+                    <g:title>Vaso petala pink c/ ouroi 24k - 15 cm</g:title>
+                    <g:description>Vaso petala pink c/ ouroi 24k - 15 cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/vaso-petala-pink-c-ouroi-24k-15-cm/122</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/877a93e6cdab61fab0034450fb5228c5.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>379</g:price>
+                </item>
+                
+                <item>
+                    <g:id>123</g:id>
+                    <g:title>Centro de mesa silhouett grande da st. james niquel</g:title>
+                    <g:description>Centro de mesa silhouett grande da st. james niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-silhouett-grande-da-st-james-niquel/123</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/73ca28339b7a51daf866bf7164981a88.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1760</g:price>
+                </item>
+                
+                <item>
+                    <g:id>124</g:id>
+                    <g:title>Centro de mesa clássico com cordão palha e présentoir com espelho st james - prata</g:title>
+                    <g:description>Centro de mesa clássico com cordão palha e présentoir com espelho st james - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/centro-de-mesa-classico-com-cordao-palha-e-presentoir-com-espelho-st-james-prata/124</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/90600bf8e3419904d2d4fb837c344d82.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>7520</g:price>
+                </item>
+                
+                <item>
+                    <g:id>125</g:id>
+                    <g:title>Bandeja galeria lisa oval aba reta c/ fundo de madeira - niquel</g:title>
+                    <g:description>Bandeja galeria lisa oval aba reta c/ fundo de madeira - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-galeria-lisa-oval-aba-reta-c-fundo-de-madeira-niquel/125</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/66b6561a0783e04b62cac9c272938911.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>2822.28</g:price>
+                </item>
+                
+                <item>
+                    <g:id>127</g:id>
+                    <g:title>Esfera de cristal murano p</g:title>
+                    <g:description>Esfera de cristal murano p</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/esfera/esfera-de-cristal-murano-p/127</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/4fe282414e61d223444dd5848a9793b9.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>25</g:inventory>
+                    <g:price>192</g:price>
+                </item>
+                
+                <item>
+                    <g:id>128</g:id>
+                    <g:title>Vaso amazonia disco pequeno st. james</g:title>
+                    <g:description>Vaso amazonia disco pequeno st. james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/vaso-amazonia-disco-pequeno-st-james/128</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/cf224670c038abe6f6424512f16074d2.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>736</g:price>
+                </item>
+                
+                <item>
+                    <g:id>129</g:id>
+                    <g:title>Vaso spin m st. james - niquel/prata/latao/cobre</g:title>
+                    <g:description>Vaso spin m st. james - niquel/prata/latao/cobre</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/vaso-spin-m-st-james-niquel-prata-latao-cobre/129</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/07301b63bcf9d40dfa0a51bdecbc9434.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>874</g:price>
+                </item>
+                
+                <item>
+                    <g:id>130</g:id>
+                    <g:title>Vaso spin - p - st. james - gold touch</g:title>
+                    <g:description>Vaso spin - p - st. james - gold touch</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/vasos/vaso-spin-p-st-james-gold-touch/130</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/183a6afed9761a3fec1d99766ef70100.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>839</g:price>
+                </item>
+                
+                <item>
+                    <g:id>131</g:id>
+                    <g:title>Pillow top para cama king</g:title>
+                    <g:description>Pillow top para cama king</g:description>
+                    <g:link>https://santapratahome.com.br/produto/cama/complementos/pillow-top-para-cama-king/131</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/d7772b383ab7c3023559f95fb684000b.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1314</g:price>
+                </item>
+                
+                <item>
+                    <g:id>132</g:id>
+                    <g:title>Bandeja galeria lisa oval aba reta c/ fundo de madeira - prata</g:title>
+                    <g:description>Bandeja galeria lisa oval aba reta c/ fundo de madeira - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-galeria-lisa-oval-aba-reta-c-fundo-de-madeira-prata/132</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/168d71ce031237f9f0f8ca14655024f6.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>3458</g:price>
+                </item>
+                
+                <item>
+                    <g:id>133</g:id>
+                    <g:title>Cachepot g coleÇÃo femme por carol bassi para st. james - prata</g:title>
+                    <g:description>Cachepot g coleÇÃo femme por carol bassi para st. james - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/cachepot-g-colecao-femme-por-carol-bassi-para-st-james-prata/133</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/dcd2e81fc02f11bd33a7d11df2cbf388.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>960</g:price>
+                </item>
+                
+                <item>
+                    <g:id>134</g:id>
+                    <g:title>Trouxinha de murano pp</g:title>
+                    <g:description>Trouxinha de murano pp</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/trouxinha-de-murano-pp/134</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/3d1dc3b5bf77f659d1caecd9b1c8650a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>286</g:price>
+                </item>
+                
+                <item>
+                    <g:id>135</g:id>
+                    <g:title>Trouxinha de murano pp</g:title>
+                    <g:description>Trouxinha de murano pp</g:description>
+                    <g:link>https://santapratahome.com.br/produto/muranos/vasos/trouxinha-de-murano-pp/135</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/4df361c208c3686bacdd7c9c0c8bde55.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>286</g:price>
+                </item>
+                
+                <item>
+                    <g:id>136</g:id>
+                    <g:title>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - niquel - m 70 x 46</g:title>
+                    <g:description>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - niquel - m 70 x 46</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-st-james-coracao-c-cordao-e-fundo-palha-salvador-niquel-m-70-x-46/136</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/6242ed7f67a710d928d2fd81f9717224.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>3356</g:price>
+                </item>
+                
+                <item>
+                    <g:id>137</g:id>
+                    <g:title>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - prata - g - 90 x 60</g:title>
+                    <g:description>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - prata - g - 90 x 60</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-st-james-coracao-c-cordao-e-fundo-palha-salvador-prata-g-90-x-60/137</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/6b04cee2de5805aad2b082c772e42ae6.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>4950</g:price>
+                </item>
+                
+                <item>
+                    <g:id>138</g:id>
+                    <g:title>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - niquel - g - 90 x 60</g:title>
+                    <g:description>Bandeja st. james coraÇÃo c/ cordÃo e fundo palha salvador - niquel - g - 90 x 60</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-st-james-coracao-c-cordao-e-fundo-palha-salvador-niquel-g-90-x-60/138</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f4066bad6a00bf75041a77fc62810183.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>2</g:inventory>
+                    <g:price>4445</g:price>
+                </item>
+                
+                <item>
+                    <g:id>139</g:id>
+                    <g:title>Bandeja com galeria oblonga e fundo de madeira 7o x 40 cm - prata</g:title>
+                    <g:description>Bandeja com galeria oblonga e fundo de madeira 7o x 40 cm - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-com-galeria-oblonga-e-fundo-de-madeira-7o-x-40-cm-prata/139</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8e34ca34dc8b562357d2734950721027.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>3525</g:price>
+                </item>
+                
+                <item>
+                    <g:id>140</g:id>
+                    <g:title>Bowl olympia grande prata st james</g:title>
+                    <g:description>Bowl olympia grande prata st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/vasos/bowl-olympia-grande-prata-st-james/140</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/3b04d43f74cd9adf6179e632653cbc5b.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>1664</g:price>
+                </item>
+                
+                <item>
+                    <g:id>141</g:id>
+                    <g:title>Centro de mesa classico c/ cordao croise e presentoir com madeira - prata</g:title>
+                    <g:description>Centro de mesa classico c/ cordao croise e presentoir com madeira - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-classico-c-cordao-croise-e-presentoir-com-madeira-prata/141</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/39c13ca637c61dbae37bdc1d4d553f84.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>4769</g:price>
+                </item>
+                
+                <item>
+                    <g:id>142</g:id>
+                    <g:title>Présentoirl com cordão croisé e fundo de madeira - prata</g:title>
+                    <g:description>Présentoirl com cordão croisé e fundo de madeira - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/presentoirl-com-cordao-croise-e-fundo-de-madeira-prata/142</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b90407b02061c91e4a13d0164e9c1246.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>2228</g:price>
+                </item>
+                
+                <item>
+                    <g:id>143</g:id>
+                    <g:title>Centro de mesa c/ cordao croise - prata</g:title>
+                    <g:description>Centro de mesa c/ cordao croise - prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-c-cordao-croise-prata/143</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/84614ca797514dcc9a5886e584af0c38.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>2120</g:price>
+                </item>
+                
+                <item>
+                    <g:id>144</g:id>
+                    <g:title>Présentoir níquel com cordão croisé e fundo de madeira</g:title>
+                    <g:description>Présentoir níquel com cordão croisé e fundo de madeira</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/presentoir-niquel-com-cordao-croise-e-fundo-de-madeira/144</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f010e2c2ecea9a440ee92d813c137e92.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>2638</g:price>
+                </item>
+                
+                <item>
+                    <g:id>145</g:id>
+                    <g:title>Centro de mesa classico c/ cordao croise e presentoir com madeira - niquel</g:title>
+                    <g:description>Centro de mesa classico c/ cordao croise e presentoir com madeira - niquel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-classico-c-cordao-croise-e-presentoir-com-madeira-niquel/145</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/f1a36e96b665f2efd01c602da8c0b4c0.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>4175</g:price>
+                </item>
+                
+                <item>
+                    <g:id>146</g:id>
+                    <g:title>Bandeja c/ galeria oitavada st. james - prata - 52x31cm</g:title>
+                    <g:description>Bandeja c/ galeria oitavada st. james - prata - 52x31cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-c-galeria-oitavada-st-james-prata-52x31cm/146</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/60ffe6cf9504985b92c9c3b477e77927.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>3524</g:price>
+                </item>
+                
+                <item>
+                    <g:id>147</g:id>
+                    <g:title>Bandeja c/ galeria oitavada st. james - niquel - 52x31cm</g:title>
+                    <g:description>Bandeja c/ galeria oitavada st. james - niquel - 52x31cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-c-galeria-oitavada-st-james-niquel-52x31cm/147</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/4cb9cfcf5a5aa9fcd77e673863d15ed8.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>3090</g:price>
+                </item>
+                
+                <item>
+                    <g:id>148</g:id>
+                    <g:title>Bandeja c/ galeria oitavada st. james - prata - 68x39cm</g:title>
+                    <g:description>Bandeja c/ galeria oitavada st. james - prata - 68x39cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-c-galeria-oitavada-st-james-prata-68x39cm/148</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/de2090921670697d6e43eb1c15be8069.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>6116</g:price>
+                </item>
+                
+                <item>
+                    <g:id>149</g:id>
+                    <g:title>Bandeja c/ galeria oitavada st. james - niquel - 68x39cm</g:title>
+                    <g:description>Bandeja c/ galeria oitavada st. james - niquel - 68x39cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-c-galeria-oitavada-st-james-niquel-68x39cm/149</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8f1a834de562d5f473aef02f19824a02.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>7669</g:price>
+                </item>
+                
+                <item>
+                    <g:id>150</g:id>
+                    <g:title>Centro de mesa classic com presentoir em espelho prata 34x15 cm - p</g:title>
+                    <g:description>Centro de mesa classic com presentoir em espelho prata 34x15 cm - p</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-classic-com-presentoir-em-espelho-prata-34x15-cm-p/150</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/6c98a71914611b9d158de5c562845d79.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>6500</g:price>
+                </item>
+                
+                <item>
+                    <g:id>151</g:id>
+                    <g:title>Centro de mesa classic com presentoir em espelho niquel 34x15 cm - p</g:title>
+                    <g:description>Centro de mesa classic com presentoir em espelho niquel 34x15 cm - p</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-classic-com-presentoir-em-espelho-niquel-34x15-cm-p/151</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/c28b3ee333f6482a6fa6d8fafff46348.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>5686</g:price>
+                </item>
+                
+                <item>
+                    <g:id>152</g:id>
+                    <g:title>Dispenser automÁtico por aproximaÇÃo para Álcool em gel / sabonete</g:title>
+                    <g:description>Dispenser automÁtico por aproximaÇÃo para Álcool em gel / sabonete</g:description>
+                    <g:link>https://santapratahome.com.br/produto/banho-e-lavabo/dispenser/dispenser-automatico-por-aproximacao-para-alcool-em-gel-sabonete/152</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/5a0a2a04d36a0db1696d8def6f7ea148.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>250</g:price>
+                </item>
+                
+                <item>
+                    <g:id>154</g:id>
+                    <g:title>Poltrona colchÃo ajustÁvel</g:title>
+                    <g:description>Poltrona colchÃo ajustÁvel</g:description>
+                    <g:link>https://santapratahome.com.br/produto/moveis/poltronas/poltrona-colchao-ajustavel/154</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/741be0217d86ec238abe446cc0c537bd.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>0</g:inventory>
+                    <g:price>2730</g:price>
+                </item>
+                
+                <item>
+                    <g:id>155</g:id>
+                    <g:title>Vaso faces g 31,5x15,5 cm</g:title>
+                    <g:description>Vaso faces g 31,5x15,5 cm</g:description>
+                    <g:link>https://santapratahome.com.br/produto/decor/vasos/vaso-faces-g-31-5x15-5-cm/155</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/447236836a82b3b58a0da7259a542a9d.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>20</g:inventory>
+                    <g:price>225</g:price>
+                </item>
+                
+                <item>
+                    <g:id>156</g:id>
+                    <g:title>Kit banheiro 5 peÇas</g:title>
+                    <g:description>Kit banheiro 5 peÇas</g:description>
+                    <g:link>https://santapratahome.com.br/produto/banho-e-lavabo/acessorios/kit-banheiro-5-pecas/156</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/43728001778b39695dbd8f63a9fd618c.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1796</g:price>
+                </item>
+                
+                <item>
+                    <g:id>159</g:id>
+                    <g:title>Bandeja prata st. james coraÇÃo c/ cordÃo 70 cm fundo madeira</g:title>
+                    <g:description>Bandeja prata st. james coraÇÃo c/ cordÃo 70 cm fundo madeira</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-prata-st-james-coracao-c-cordao-70-cm-fundo-madeira/159</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/66714a90b0cb64ae950fb9ab8e8475c7.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>3519</g:price>
+                </item>
+                
+                <item>
+                    <g:id>160</g:id>
+                    <g:title>Bandeja nÍquel st. james coraÇÃo c/ cordÃo 70cm fundo madeira</g:title>
+                    <g:description>Bandeja nÍquel st. james coraÇÃo c/ cordÃo 70cm fundo madeira</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-niquel-st-james-coracao-c-cordao-70cm-fundo-madeira/160</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/3b7895fbc91a65eeef0cf804820d2cbc.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>3125</g:price>
+                </item>
+                
+                <item>
+                    <g:id>161</g:id>
+                    <g:title>Centro de mesa classic em prata st james</g:title>
+                    <g:description>Centro de mesa classic em prata st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-classic-em-prata-st-james/161</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/920b0bbddb34c51b6aff9094ed215572.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1519</g:price>
+                </item>
+                
+                <item>
+                    <g:id>162</g:id>
+                    <g:title>Bandeja c/ galeria cross st james prata</g:title>
+                    <g:description>Bandeja c/ galeria cross st james prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-c-galeria-cross-st-james-prata/162</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/2f5c302e19ff0b342c43632f05cb2c52.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>635</g:price>
+                </item>
+                
+                <item>
+                    <g:id>163</g:id>
+                    <g:title>Vasinho grande eclipse prata st james</g:title>
+                    <g:description>Vasinho grande eclipse prata st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/vasinho-grande-eclipse-prata-st-james/163</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/0e089a1fb4b472a4d5613c2150423e82.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>735</g:price>
+                </item>
+                
+                <item>
+                    <g:id>164</g:id>
+                    <g:title>Bandeja retangular legacy prata com fundo de madeira st james</g:title>
+                    <g:description>Bandeja retangular legacy prata com fundo de madeira st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-retangular-legacy-prata-com-fundo-de-madeira-st-james/164</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8d5ef9ed29f6936d91d34731d6520b8c.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>3070</g:price>
+                </item>
+                
+                <item>
+                    <g:id>165</g:id>
+                    <g:title>Bandeja botanique st james prata</g:title>
+                    <g:description>Bandeja botanique st james prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-botanique-st-james-prata/165</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/87c5b80fe773494e738f8618cac1e4a2.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>2053</g:price>
+                </item>
+                
+                <item>
+                    <g:id>166</g:id>
+                    <g:title>Vasinho pÉrola st james prata</g:title>
+                    <g:description>Vasinho pÉrola st james prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/vasos/vasinho-perola-st-james-prata/166</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/86f480c4b17a822abe3861b60e45ccc6.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>648</g:price>
+                </item>
+                
+                <item>
+                    <g:id>167</g:id>
+                    <g:title>Bandeja fiocco oval prata pequena st james fundo madeira</g:title>
+                    <g:description>Bandeja fiocco oval prata pequena st james fundo madeira</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-fiocco-oval-prata-pequena-st-james-fundo-madeira/167</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/0c57d189f360acb81aa138d66b1f7544.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>4540</g:price>
+                </item>
+                
+                <item>
+                    <g:id>168</g:id>
+                    <g:title>Bandeja prata retangular c/ galeria st. james fundo madeira</g:title>
+                    <g:description>Bandeja prata retangular c/ galeria st. james fundo madeira</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-prata-retangular-c-galeria-st-james-fundo-madeira/168</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/3cc9d3231ee88cd9bb5044b41d8b42dd.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>3559</g:price>
+                </item>
+                
+                <item>
+                    <g:id>169</g:id>
+                    <g:title>CastiÇal redondo stacks cobre st james</g:title>
+                    <g:description>CastiÇal redondo stacks cobre st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/casticais/castical-redondo-stacks-cobre-st-james/169</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ec9ce678067394160cb75ed9ed80862e.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>848</g:price>
+                </item>
+                
+                <item>
+                    <g:id>170</g:id>
+                    <g:title>Centro de mesa oval plissÉ st james</g:title>
+                    <g:description>Centro de mesa oval plissÉ st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-oval-plisse-st-james/170</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8cae2bf5fc6a2375445994d690dfdd13.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>4654.09</g:price>
+                </item>
+                
+                <item>
+                    <g:id>171</g:id>
+                    <g:title>Carrinho bar st. james prata</g:title>
+                    <g:description>Carrinho bar st. james prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/carrinho-bar-st-james-prata/171</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/31b34b20de2581536d718642d7db97c0.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>12100</g:price>
+                </item>
+                
+                <item>
+                    <g:id>172</g:id>
+                    <g:title>Centro de mesa duplo cobre st james</g:title>
+                    <g:description>Centro de mesa duplo cobre st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/centro-de-mesa/centro-de-mesa-duplo-cobre-st-james/172</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/572b5f021fe6ab190e38ccd19cbc5589.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>4398</g:price>
+                </item>
+                
+                <item>
+                    <g:id>173</g:id>
+                    <g:title>Petit four botanique 3 andares prata st james</g:title>
+                    <g:description>Petit four botanique 3 andares prata st james</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/petit-four-botanique-3-andares-prata-st-james/173</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/232f0e8cdc6c18b85c7d77606b0ae35d.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>2480</g:price>
+                </item>
+                
+                <item>
+                    <g:id>174</g:id>
+                    <g:title>Jarra em cristal e prata 2,2l</g:title>
+                    <g:description>Jarra em cristal e prata 2,2l</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/jarra-em-cristal-e-prata-2-2l/174</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/ba9832bd8e84f1207da77503a3f0e32f.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>750.99</g:price>
+                </item>
+                
+                <item>
+                    <g:id>175</g:id>
+                    <g:title>Garrafa tÉrmica prata 500ml</g:title>
+                    <g:description>Garrafa tÉrmica prata 500ml</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/garrafa-termica-prata-500ml/175</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8a1bb50d9125653634d68dcaa746186b.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>2280</g:price>
+                </item>
+                
+                <item>
+                    <g:id>176</g:id>
+                    <g:title>Mini prato de bolo em prata borboleta</g:title>
+                    <g:description>Mini prato de bolo em prata borboleta</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/mini-prato-de-bolo-em-prata-borboleta/176</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/9de985a132086b0fd9466b30f45b4023.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>190</g:price>
+                </item>
+                
+                <item>
+                    <g:id>177</g:id>
+                    <g:title>Prato de prata c/ cÚpula em vidro c/ borboleta</g:title>
+                    <g:description>Prato de prata c/ cÚpula em vidro c/ borboleta</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/prato-de-prata-c-cupula-em-vidro-c-borboleta/177</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/5f1578e53b86c5364d4613052b8844d5.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>569</g:price>
+                </item>
+                
+                <item>
+                    <g:id>178</g:id>
+                    <g:title>Pote de mel c/ abelha prata</g:title>
+                    <g:description>Pote de mel c/ abelha prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/pote-de-mel-c-abelha-prata/178</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8c69d9cc62fb5ad6b0c6ef73242b1d12.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>449</g:price>
+                </item>
+                
+                <item>
+                    <g:id>179</g:id>
+                    <g:title>Garrafa tÉrmica orquÍdea em prata 500ml</g:title>
+                    <g:description>Garrafa tÉrmica orquÍdea em prata 500ml</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/garrafa-termica-orquidea-em-prata-500ml/179</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/467c75494e561d4df4227c2f6fc09333.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1800</g:price>
+                </item>
+                
+                <item>
+                    <g:id>180</g:id>
+                    <g:title>Porta gelÉia prata</g:title>
+                    <g:description>Porta gelÉia prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/porta-geleia-prata/180</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b92a7b06db6ac21f9ae093ed54e5959d.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>449</g:price>
+                </item>
+                
+                <item>
+                    <g:id>181</g:id>
+                    <g:title>Boleira fiori m ouro 24k</g:title>
+                    <g:description>Boleira fiori m ouro 24k</g:description>
+                    <g:link>https://santapratahome.com.br/produto/riva/ouro-24k/boleira-fiori-m-ouro-24k/181</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/55850603f89a4af0439d081884091739.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>969</g:price>
+                </item>
+                
+                <item>
+                    <g:id>182</g:id>
+                    <g:title>Saladeira c/ par de talheres ouro 24k</g:title>
+                    <g:description>Saladeira c/ par de talheres ouro 24k</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/saladeira-c-par-de-talheres-ouro-24k/182</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/2465f4e3c59b780af5d6306def702ea3.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1100</g:price>
+                </item>
+                
+                <item>
+                    <g:id>183</g:id>
+                    <g:title>Bandeja fiocco oval prata pequena st james fundo mÁrmore raffaelo</g:title>
+                    <g:description>Bandeja fiocco oval prata pequena st james fundo mÁrmore raffaelo</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/bandejas/bandeja-fiocco-oval-prata-pequena-st-james-fundo-marmore-raffaelo/183</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/8626b7bc9bbc086abffb89e1acdc46db.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>8500</g:price>
+                </item>
+                
+                <item>
+                    <g:id>184</g:id>
+                    <g:title>Porta toalhas lavabo prata borboleta</g:title>
+                    <g:description>Porta toalhas lavabo prata borboleta</g:description>
+                    <g:link>https://santapratahome.com.br/produto/banho-e-lavabo/acessorios/porta-toalhas-lavabo-prata-borboleta/184</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/a7b90c211310fdbb99a46341dce32ac7.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>710</g:price>
+                </item>
+                
+                <item>
+                    <g:id>186</g:id>
+                    <g:title>Busto decorativo marfim marizza prado</g:title>
+                    <g:description>Busto decorativo marfim marizza prado</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/busto-decorativo-marfim-marizza-prado/186</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/85aaa668678bbec2bcf4aca92d43b5f3.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>1</g:inventory>
+                    <g:price>995.4</g:price>
+                </item>
+                
+                <item>
+                    <g:id>187</g:id>
+                    <g:title>Saladeira c/ par de talheres prata</g:title>
+                    <g:description>Saladeira c/ par de talheres prata</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/mesa-posta/saladeira-c-par-de-talheres-prata/187</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b152dfaae595a329208b3bba47c3d531.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1100</g:price>
+                </item>
+                
+                <item>
+                    <g:id>188</g:id>
+                    <g:title>Boleira sava xg ouro 24k</g:title>
+                    <g:description>Boleira sava xg ouro 24k</g:description>
+                    <g:link>https://santapratahome.com.br/produto/riva/ouro-24k/boleira-sava-xg-ouro-24k/188</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/aff2d691f46a7f4e3973cb62532bf5a5.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1950</g:price>
+                </item>
+                
+                <item>
+                    <g:id>190</g:id>
+                    <g:title>Caixa riviera g pedra druza dourado</g:title>
+                    <g:description>Caixa riviera g pedra druza dourado</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/caixa-riviera-g-pedra-druza-dourado/190</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/a867353b7e2b2c2194616f374f54873d.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>830</g:price>
+                </item>
+                
+                <item>
+                    <g:id>191</g:id>
+                    <g:title>Caixa riviera m c/ pedra druza dourado</g:title>
+                    <g:description>Caixa riviera m c/ pedra druza dourado</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/caixa-riviera-m-c-pedra-druza-dourado/191</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/b90b3c044ff9b4e5b21a6d71ad22d11a.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>550.09</g:price>
+                </item>
+                
+                <item>
+                    <g:id>192</g:id>
+                    <g:title>Caixa riviera p c/ pedra druza dourado</g:title>
+                    <g:description>Caixa riviera p c/ pedra druza dourado</g:description>
+                    <g:link>https://santapratahome.com.br/produto/prataria/decor/caixa-riviera-p-c-pedra-druza-dourado/192</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/0a6dc5e177239dbbc398499ec7cb4d83.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>359</g:price>
+                </item>
+                
+                <item>
+                    <g:id>193</g:id>
+                    <g:title>Nossa senhora das graÇas- marizza prado</g:title>
+                    <g:description>Nossa senhora das graÇas- marizza prado</g:description>
+                    <g:link>https://santapratahome.com.br/produto/marizza-prado/decoracao/nossa-senhora-das-gracas-marizza-prado/193</g:link>
+                    <g:image_link>https://santapratahome.com.br/app/fotos/e383e2ed1ecc62eba2022db2a99e8b1b.jpg</g:image_link>
+                    <g:brand>santapratahome</g:brand>
+                    <g:condition>new</g:condition>
+                    <g:availability>in stock</g:availability>
+                    <g:inventory>5</g:inventory>
+                    <g:price>1565.52</g:price>
+                </item>
+            </channel>
+            </rss>
