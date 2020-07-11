@@ -141,6 +141,44 @@ class Item extends PHPFrodo {
         $this->render();
     }
 
+    public function bulkupdate() {
+        //$this->pagebase = "$this->baseUri/admin/item";
+        if (isset($_POST['item_categoria'])) {
+            $item_categoria = $_POST['item_categoria'];
+        }
+        if ($this->postIsValid(array(
+            'item_categoria' => 'string'
+        ))) {
+            $this->select()->from('item')->where("item_categoria = " . $item_categoria)->execute();
+            if($this->result()){
+                $this->assign('linhas_afetadas', count($this->data) . 'linha(s) atualizada(s).');
+                $this->desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto'));
+                //$this->postValueChange('item_desconto', preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto')));
+                foreach ($this->data as $k=>$item){
+
+                    $desconto = $item['item_preco'] * $this->desconto / 100;
+                    $desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $desconto);
+
+                    //echo $desconto . "</br>";
+
+                    $this->update('item')->set(array('item_desconto'),array($desconto))->where("item_categoria = " . $item_categoria . " and item_id = " . $item['item_id'])->execute();
+
+                }
+            }
+            //$this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
+            /*$this->postValueChange('item_desconto', preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto')));
+            $this->update('item')->set()->where("item_categoria = " . $item_categoria)->execute();
+            $this->assign('linhas_afetadas', $this->numrows);*/
+            $this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
+        }
+        //var_dump($this);
+
+        $this->tpl('admin/item_bulk_update.html');
+
+        $this->fillCategoria();
+        $this->render();
+    }
+
     public function editar() {
         if (isset($this->uri_segment[2])) {
             $this->item_id = $this->uri_segment[2];
