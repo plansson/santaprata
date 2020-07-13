@@ -145,11 +145,16 @@ class Item extends PHPFrodo {
         //$this->pagebase = "$this->baseUri/admin/item";
         if (isset($_POST['item_categoria'])) {
             $item_categoria = $_POST['item_categoria'];
+            $where  = "item_categoria = $item_categoria";
+        }
+        if (isset($_POST['item_sub']) && $_POST['item_sub'] != 0) {
+            $item_sub = (int) $_POST['item_sub'];
+            $where .= " AND item_sub = $item_sub";
         }
         if ($this->postIsValid(array(
             'item_categoria' => 'string'
         ))) {
-            $this->select()->from('item')->where("item_categoria = " . $item_categoria)->execute();
+            $this->select()->from('item')->where($where)->execute();
             if($this->result()){
                 $this->assign('linhas_afetadas', count($this->data) . 'linha(s) atualizada(s).');
                 $this->desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto'));
@@ -160,18 +165,14 @@ class Item extends PHPFrodo {
                     $desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $desconto);
 
                     //echo $desconto . "</br>";
+                    $where .= " and item_id = " . $item['item_id'];
 
-                    $this->update('item')->set(array('item_desconto'),array($desconto))->where("item_categoria = " . $item_categoria . " and item_id = " . $item['item_id'])->execute();
+                    $this->update('item')->set(array('item_desconto'),array($desconto))->where($where)->execute();
 
                 }
             }
-            //$this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
-            /*$this->postValueChange('item_desconto', preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto')));
-            $this->update('item')->set()->where("item_categoria = " . $item_categoria)->execute();
-            $this->assign('linhas_afetadas', $this->numrows);*/
             $this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
         }
-        //var_dump($this);
 
         $this->tpl('admin/item_bulk_update.html');
 
