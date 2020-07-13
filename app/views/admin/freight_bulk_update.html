@@ -52,7 +52,7 @@
                                                     <span class="add-on">Cobrar Frete: </span>
                                                     <select name="item_calcula_frete" id="item_calcula_frete" class="span6">
                                                         <option value="1">Não</option>
-                                                        <option value="2">Sim</option>
+                                                        <option value="2" selected>Sim</option>
                                                     </select>
                                                     <button type="submit" class="btn btn-action" id="btn-add">Atualizar</button>
                                                 </div>
@@ -73,8 +73,8 @@
             </div><!--end row-fluid-->             
         </div> <!--end main-->
         <script type="text/javascript">
-            $("#menu-produto").addClass('active');
-            $("#bulk-product-update").addClass('active');
+            $("#menu-frete").addClass('active');
+            $("#bulk-freight-update").addClass('active');
             $('.form').on('submit',function(){
                 let vItemCategoria = $('#item_categoria');
 
