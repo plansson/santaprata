@@ -169,12 +169,9 @@ class Item extends PHPFrodo {
                     //echo $desconto . "</br>";
                     $where_row .= " and item_id = " . $item['item_id'];
 
-                    echo $where_row . "</br>";
-
                     $this->update('item')->set(array('item_desconto'),array($desconto))->where($where_row)->execute();
 
                 }
-                exit();
             }
             $this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
         }
