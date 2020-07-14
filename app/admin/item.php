@@ -159,17 +159,22 @@ class Item extends PHPFrodo {
                 $this->assign('linhas_afetadas', count($this->data) . 'linha(s) atualizada(s).');
                 $this->desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto'));
                 //$this->postValueChange('item_desconto', preg_replace(array('/\./', '/\,/'), array('', '.'), $this->postGetValue('item_desconto')));
+
                 foreach ($this->data as $k=>$item){
+                    $where_row = $where;
 
                     $desconto = $item['item_preco'] * $this->desconto / 100;
                     $desconto = preg_replace(array('/\./', '/\,/'), array('', '.'), $desconto);
 
                     //echo $desconto . "</br>";
-                    $where .= " and item_id = " . $item['item_id'];
+                    $where_row .= " and item_id = " . $item['item_id'];
 
-                    $this->update('item')->set(array('item_desconto'),array($desconto))->where($where)->execute();
+                    echo $where_row . "</br>";
+
+                    $this->update('item')->set(array('item_desconto'),array($desconto))->where($where_row)->execute();
 
                 }
+                exit();
             }
             $this->redirect("$this->baseUri/admin/item/bulkupdate/process-ok/");
         }
