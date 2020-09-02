@@ -98,7 +98,7 @@ if ($this->pedido_id >= 1) {
                 )
                 ->where("pedido_id = $this->pedido_id")
                 ->execute();
-            $this->notificarCupom();
+            //$this->notificarCupom();
             $this->notificarAdmin();
             $this->notificarFaturaCliente();
             $this->clear();
